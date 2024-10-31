@@ -3,8 +3,8 @@ from mysql.connector import Error
 
 HOST = "localhost"
 USER = "root"
-PASSWORD = "112233"
-BD = "stockagranel"
+PASSWORD = "tu_contraseña"
+BD = "emyl"
 
 class ErrorConexion(Exception):
     pass
